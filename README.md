@@ -1,2 +1,3 @@
-# My leet code Solution C++ version
+# My leet code Solution 
+C++ version
 
